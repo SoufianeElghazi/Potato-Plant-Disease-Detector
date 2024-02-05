@@ -4,7 +4,7 @@
     Flutter Potato Disease Detector Mobile App
   </h1>
 
-![Flutter app Demo](Header.png "Demo")
+![Flutter app Demo](mobile-app/Header.png "Demo")
   
 </div>
 
@@ -22,7 +22,7 @@
 
 Before you begin, ensure you have met the following dependencies inside your pubspec.yaml:
 
-![Dependencies](assets/images/dependencies.png "Dependencies")
+![Dependencies](mobile-app/assets/images/dependencies.png "Dependencies")
 
 then run this command on your terminal to get the dependencies
 ```bash
@@ -33,14 +33,14 @@ flutter pub get
 
 And dont forget to mention the assets as well inside your pubspec.yaml:
 
-![assets](assets/images/assets.png "assets")
+![assets](mobile-app/assets/images/assets.png "assets")
 
 
 ### OPEN AI KEY:
 
 then put your openai key here:
 
-![assets](assets/images/key.png "assets")
+![assets](mobile-app/assets/images/key.png "assets")
 
 ### Run Locally
 
